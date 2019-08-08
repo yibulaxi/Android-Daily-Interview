@@ -14,24 +14,58 @@
 
 
 
+----------------
 
+每工作日更新一道 Android 面试题，小聚成河，大聚成江，坚持下来的都是时代的铸就者，共勉之！如果想要和我们一起坚持下去，不妨点个**关注**吧！:rainbow_flag:
 
-每工作日更新一道 Android 面试题，小聚成河，大聚成江，坚持下来的都是时代的铸就者，共勉之！如果想要和我们一起坚持下去，不妨点个**关注**吧！:smiley:
+## 今日面试题 （2019-08-08）
 
-## 今日面试题 （2019-06-21）
-
-### [什么是代理模式？如何使用？Android源码中的代理模式？](https://github.com/Moosphan/Android-Daily-Interview/issues/81)👉[去答题](https://github.com/Moosphan/Android-Daily-Interview/issues/81)
+### [谈一谈线程sleep()和wait()的区别？](https://github.com/Moosphan/Android-Daily-Interview/issues/117)👉[去答题](https://github.com/Moosphan/Android-Daily-Interview/issues/117)
 
 ## 如何贡献？
 
 想加入这件有意义的事，并成为[**贡献者**](https://github.com/Moosphan/Android-Daily-Interview/blob/HEAD/android-interview/contributors.md)一员？很简单，你可以选择以下方式来完善和壮大这个项目：
 
-1. 参与每日答题，在 [**答题区**](https://github.com/Moosphan/Android-Daily-Interview/issues)留下你的见解，让更多人认识你！
-2. 参与往期面试题的进一步解析和补充，稳固基石！
+1. 参与每日答题，在[**答题区**](https://github.com/Moosphan/Android-Daily-Interview/issues)留下你的见解，让更多人认识你！
+2. 参与[**往期面试题的归纳、总结、完善或者扩展**](https://github.com/Moosphan/Android-Daily-Interview/issues/113)，稳固基石！
 3. 前往👉[**后续面试题征集区域**](https://github.com/Moosphan/Android-Daily-Interview/issues/20)，提供更多优质面试题～
 4. 你也可以加入QQ群，参与本项目的维护或者讨论：**713463651**
 
 ## 历史汇总区
+- **第 106 期**：[**请举例说明Kotlin中with与apply函数的应用场景和区别？** ](https://github.com/Moosphan/Android-Daily-Interview/issues/116)
+- **第 105 期**：[**说下切换横竖屏时Activity的生命周期？** ](https://github.com/Moosphan/Android-Daily-Interview/issues/115)
+- **第 104 期**：[**谈谈如何对网络请求进行优化？** ](https://github.com/Moosphan/Android-Daily-Interview/issues/114)
+- **第 103 期**：[**你知道哪些提升开发效率的骚操作？** ](https://github.com/Moosphan/Android-Daily-Interview/issues/112)
+- **第 102 期**：[**如何处理大图的加载？**](https://github.com/Moosphan/Android-Daily-Interview/issues/111)
+- **第 101 期**：[**谈一谈java线程常见的几种锁？**](https://github.com/Moosphan/Android-Daily-Interview/issues/110)
+- **第 100 期**：[**谈谈代码混淆的步骤？**](https://github.com/Moosphan/Android-Daily-Interview/issues/109)
+- **第 99 期**：[**如何保证线程安全？**](https://github.com/Moosphan/Android-Daily-Interview/issues/108)
+- **第 98 期**：[**什么是委托属性？请简要说说其使用场景和原理？**](https://github.com/Moosphan/Android-Daily-Interview/issues/107)
+- **第 97 期**：[**什么是线程池？如何创建一个线程池？**](https://github.com/Moosphan/Android-Daily-Interview/issues/106)
+- **第 96 期**：[**请谈谈你对Binder机制的理解？**](https://github.com/Moosphan/Android-Daily-Interview/issues/105)
+- **第 95 期**：[**谈谈Java 线程中 notify 和 notifyAll有什么区别？**](https://github.com/Moosphan/Android-Daily-Interview/issues/104)
+- **第 94 期**：[**谈谈App的电量优化？**](https://github.com/Moosphan/Android-Daily-Interview/issues/102)
+- **第 93 期**：[**谈谈你对Kotlin中的 data 关键字的理解？相比于普通类有哪些特点？**](https://github.com/Moosphan/Android-Daily-Interview/issues/101)
+- **第 92 期**：[**简单介绍下ContentProvider是如何实现数据共享的？**](https://github.com/Moosphan/Android-Daily-Interview/issues/100)
+- **第 91 期**：[**说一下线程的几种状态？**](https://github.com/Moosphan/Android-Daily-Interview/issues/99)
+- **第 90 期**：[**Service 如何进行保活？**](https://github.com/Moosphan/Android-Daily-Interview/issues/98)
+- **第 89 期**：[**谈谈你对时间复杂度和空间复杂度的理解？**](https://github.com/Moosphan/Android-Daily-Interview/issues/97)
+- **第 88 期**：[**Kotlin中实现单例的几种常见方式？**](https://github.com/Moosphan/Android-Daily-Interview/issues/96)
+- **第 87 期**：[**谈谈布局优化的技巧？**](https://github.com/Moosphan/Android-Daily-Interview/issues/95)
+- **第 86 期**：[**请简述一次http网络请求的过程？**](https://github.com/Moosphan/Android-Daily-Interview/issues/94)
+- **第 85 期**：[**为什么在子线程中创建Handler会抛异常？**](https://github.com/Moosphan/Android-Daily-Interview/issues/93)
+- **第 84 期**：[**谈谈如何适配更多机型的？**](https://github.com/Moosphan/Android-Daily-Interview/issues/92)
+- **第 83 期**：[**子线程能否更新UI？**](https://github.com/Moosphan/Android-Daily-Interview/issues/91)
+- **第 82 期**：[**Kotlin中List与MutableList的区别？**](https://github.com/Moosphan/Android-Daily-Interview/issues/90)
+- **第 81 期**：[**如何反转一个单链表？**](https://github.com/Moosphan/Android-Daily-Interview/issues/89)
+- **第 80 期**：[**Android Native Crash问题如何分析定位？**](https://github.com/Moosphan/Android-Daily-Interview/issues/88)
+- **第 79 期**：[**简述一下Android 8.0、9.0 分别增加了哪些新特性？**](https://github.com/Moosphan/Android-Daily-Interview/issues/87)
+- **第 78 期**：[**谈一谈单例模式，建造者模式，工厂模式的使用场景？如何合理选择？**](https://github.com/Moosphan/Android-Daily-Interview/issues/86)
+- **第 77 期**：[**谈谈你是如何优化App启动过程的？**](https://github.com/Moosphan/Android-Daily-Interview/issues/85)
+- **第 76 期**：[**JVM、Dalvik、ART三者的原理和区别？**](https://github.com/Moosphan/Android-Daily-Interview/issues/84)
+- **第 75 期**：[**谈谈ThreadLocal用法和原理？**](https://github.com/Moosphan/Android-Daily-Interview/issues/83)
+- **第 74 期**：[**Java 中 IO 流分为几种?BIO,NIO,AIO 有什么区别?**](https://github.com/Moosphan/Android-Daily-Interview/issues/82)
+- **第 73 期**：[**什么是代理模式？如何使用？Android源码中的代理模式？**](https://github.com/Moosphan/Android-Daily-Interview/issues/81)
 - **第 72 期**：[**谈谈怎么给 Apk 瘦身？**](https://github.com/Moosphan/Android-Daily-Interview/issues/80)
 - **第 71 期**：[**简要说说 LruCache 的原理？**](https://github.com/Moosphan/Android-Daily-Interview/issues/79)
 - **第 70 期**：[**说一说https,udp,socket区别？**](https://github.com/Moosphan/Android-Daily-Interview/issues/78)
